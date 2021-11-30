@@ -1,4 +1,5 @@
 # Tech Notes Api
+[![Build Status](https://app.travis-ci.com/flirtara/tech-notes.svg?branch=main)](https://app.travis-ci.com/flirtara/tech-notes)
 
   This is a simple Rest Api to store tech notes.
 
